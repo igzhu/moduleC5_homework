@@ -6,7 +6,7 @@
 * C5.7. (complex) - приложение с Fetch HTTP-запросом и async/await асинхронным кодом и хранением данных на стороне клиента (в браузере).
 
 
-=================================================================================
+==========================================================================
 
 This files demonstrate the use of JavaScript with DOM (documet object model) methods, HTML lifecycle, JSON/XML, XHR (XMLHttpRequest), etc.
 
