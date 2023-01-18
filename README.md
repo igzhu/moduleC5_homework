@@ -6,13 +6,13 @@
 * C5.7. (complex) - приложение с Fetch HTTP-запросом и async/await асинхронным кодом и хранением данных на стороне клиента (в браузере).
 
 
-==========================================================
+=================================================================================
 
-This files demonstrate OOP model used in JawaScript ES6.
-Both approaches applied in the files - constructor function prototypes and classes (of course class is only
-"syntactic shugar" over prototypes). Also some methods to use objects are represented.
-* Add to the test suite for 1.2, 1.3 and 2.0 tests (tag the tests appropriately)
-* Create a yaml-test Docker image that holds all implementations and tests
+This files demonstrate the use of JavaScript with DOM (documet object model) methods, HTML lifecycle, JSON/XML, XHR (XMLHttpRequest) and etc.
+Here the concrete content:
+
+* C5.2. JSON vs XML - object serialization/deserialization through JSON, XML formats.
+* С5.3. XHR
   * Create a CLI tool to run known tests
 * Create an IRC bot for #yaml
   * Can use the docker tool to safely run code
