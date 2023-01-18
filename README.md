@@ -9,6 +9,7 @@
 =================================================================================
 
 This files demonstrate the use of JavaScript with DOM (documet object model) methods, HTML lifecycle, JSON/XML, XHR (XMLHttpRequest) and etc.
+
 Here the concrete content:
 
 * C5.2. JSON vs XML - object serialization/deserialization through JSON, XML formats.
