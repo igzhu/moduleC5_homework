@@ -8,12 +8,11 @@
 
 =================================================================================
 
-This files demonstrate the use of JavaScript with DOM (documet object model) methods, HTML lifecycle, JSON/XML, XHR (XMLHttpRequest) and etc.
+This files demonstrate the use of JavaScript with DOM (documet object model) methods, HTML lifecycle, JSON/XML, XHR (XMLHttpRequest), etc.
 
 Here the concrete content:
 
 * C5.2. JSON vs XML - object serialization/deserialization through JSON, XML formats.
 * С5.3. XHR - simple application that uses XHR (XMLHttpRequest), callback function with default async call.
 * C5.6. HTTP (fetch, async-await) - application based on Fetch HTTP-запросом (as a promise realisation) and async/await call.
-* Work on YAML Dev Kit docs
 * C5.7. (complex) - this is the more advanced app. Fetch, async-await, DOM navigation and update (CRUD like), client-side data storage (localStorage is used).
